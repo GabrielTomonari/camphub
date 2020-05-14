@@ -1,0 +1,16 @@
+.orange-span{
+    background-color: orange;
+    padding: 6px 5px 6px;
+    border-radius: 5px;
+}
+
+.navbar h6{
+    flex: 8;
+    padding: 8px 0 0 0;
+}
+
+.vl{
+    border-left: 1px solid #a3a3a3;
+    height: 30px;
+    padding: 0 10px 0 0;
+}
